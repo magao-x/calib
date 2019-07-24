@@ -1,0 +1,2 @@
+-1.1572 # actuator gain (microns/fractional voltage^2)
+0.5275 # volume conversion factor
