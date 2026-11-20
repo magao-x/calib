@@ -1,6 +1,6 @@
 # QWP tracking law for qwptrack, filter z
 # dataset 20261115, posterior median, chosen branch 2
-# source tracking_z.npz sha256 9328e8c941b89b8c
+# source tracking_z.npz sha256 c3e6b34298f9781b
 # pol_cal commit none
 # imr: stagek.position.current (deg); qwp1, qwp2: fast-axis angles (deg), unwrapped
 -90.000000,116.463330,91.604214
